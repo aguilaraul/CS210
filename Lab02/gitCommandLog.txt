@@ -1,0 +1,12 @@
+git init
+git add HelloWorld.txt
+git commit -m "Created HelloWorld.txt"
+git branch feature1
+git checkout feature1
+git add HelloWorld.txt
+git commit -m "feature1"
+git checkout master
+git checkout feature1
+git checkout master
+git merge feature1
+git log
