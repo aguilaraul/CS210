@@ -1,0 +1,56 @@
+LAB 03: Welcome to GitHub!
+
+This semester, we are going to be working in teams of ~3 students per team, to plan and develop a complex Java software project.
+
+Since we will be working in teams and exercising the planning and design concepts we will be learning this semester,
+our CS 210 projects should be moderately complex and have the following characteristics:
+
++ Include at least 2-3 major features or functions that will be useful to the target user audience.
++ Include at least 3-5 distinct kinds of objects that we can model as classes.
++ Include a data persistence feature that will save application data out to file, and load from a file when launched.
++ Include a user interface (graphical encouraged, but text-based is acceptable) for user interaction.
+
+Please update the items below in this file and then push the updated file back to GitHub!
+
+===========================================================================================================================
+
+Name: Raul Aguilar
+
+Email address:  raula@live.com
+
+---------------------------------------------------------------------------------------------------------------------------
+
+1) Please think about a project idea that you would like to propose to your project team.  In a few sentences, please
+   describe your overall project idea.  What are the key features of the program, and who is the target user audience?
+
+I would like to make a film catalog app. When I'm out shooting film there's no metadata stored in the emulsion, so having a
+place to store notes is handy. There would be a start screen with two option 'New Roll' and 'Saved Rolls'. Selecting
+'New Roll' would bring you to a new screen where you choose your film stock / iso / # of exposures. After that, you would enter
+a carousel where each page is able to input the aperture, shutter speed, any other notes, and maybe take a picture for reference.
+Next and Previous buttons would drag you through each page. A save button / exit button. And then the 'Saved Rolls' page
+would be a grid showing each roll, and selecting a roll would bring you back to the carousel view.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2) Do you believe your project better lends itself to a graphical user-interface or a text-based user interface?
+
+It could work as a text based interface. Typing in values and displaying text to screen. And also having the option of
+using arrows to update the values.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+3) To successfully plan, design, and construct this project, you will need to work with a team of 2-3 other students.
+   Do you have any specific group member preferences or requests that you'd like to share?
+   
+   I suck at anything front-end. Grids, GUIs, action listeners; all of it. If someone can handle that. I'm an ideas guy
+   and I can program.
+   
+---------------------------------------------------------------------------------------------------------------------------
+
+4) It will be important for your group to meet at least one hour per week outside of class to coordinate activites.
+   What is your availability for meeting with your group?  What days and times of day could you be available for meeting?
+   
+   Mon - Fri after 6pm
+   Weekends probably
+   
+---------------------------------------------------------------------------------------------------------------------------
